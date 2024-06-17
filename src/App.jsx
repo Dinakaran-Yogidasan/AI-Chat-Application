@@ -5,7 +5,6 @@ import ForgotPassword from "./components/Authentication/ForgotPassword";
 import PrivateRoutes from "./auth/PrivateRoutes";
 import { AuthProvider } from "./authContext/AuthContext";
 import Dashboard from "./components/DashBoard/Dashboard";
-import "./index.css";
 
 const App = () => {
   return (
